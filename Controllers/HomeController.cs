@@ -4,9 +4,9 @@ using System.Diagnostics;
 using System.Linq;
 using System.Threading.Tasks;
 using Microsoft.AspNetCore.Mvc;
-using eshc_apply.Models;
+using EshcApply.Models;
 
-namespace eshc_apply.Controllers
+namespace EshcApply.Controllers
 {
     public class HomeController : Controller
     {

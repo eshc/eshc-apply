@@ -1,6 +1,6 @@
 using System;
 
-namespace eshc_apply.Models
+namespace EshcApply.Models
 {
     public class ErrorViewModel
     {
